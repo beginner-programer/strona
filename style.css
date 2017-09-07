@@ -44,6 +44,7 @@ body
 	margin-left: auto;
 	margin-right: auto;
 	text-align: justify;
+	padding-top: 10px;
 }
 
 .socials
@@ -106,4 +107,11 @@ body
 .gplus:hover
 {
 	background-color: #d95333;
+}
+
+.footer
+{
+	text-align: center;
+	background-color: #222222;
+	padding: 30px;
 }
